@@ -6,3 +6,5 @@ newline1
 newline2
 
 branch test
+
+bigfix branch test
