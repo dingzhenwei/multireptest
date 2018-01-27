@@ -1,4 +1,6 @@
 # multireptest
 test project for multiple repository
 
-newline
+newline1
+
+newline2
