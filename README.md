@@ -8,3 +8,5 @@ newline2
 branch test
 
 bigfix branch test
+
+newline3
